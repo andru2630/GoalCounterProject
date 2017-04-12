@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="team_a">Team I</string>
+    <string name="team_b">Team II</string>
+    <string name="score_text">0</string>
+    <string name="fouls">Foul</string>
+    <string name="corners">Corner</string>
+    <string name="goal">Goal</string>
+    <string name="reset">Reset</string>
+
+</resources>
